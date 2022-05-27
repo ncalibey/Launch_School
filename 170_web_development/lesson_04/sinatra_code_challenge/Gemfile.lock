@@ -4,7 +4,7 @@ GEM
     backports (3.10.3)
     erubis (2.7.0)
     multi_json (1.12.2)
-    rack (1.6.8)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     rack-test (0.7.0)
@@ -23,6 +23,7 @@ GEM
     tilt (2.0.8)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
